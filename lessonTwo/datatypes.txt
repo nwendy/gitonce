@@ -1,11 +1,6 @@
 1. Data Types in Javascript
    ======================= 
-  string
-  numbers
-  booleans
-
-
-
+  
 2. What data type?
   
 3. 7.8 --------------- number

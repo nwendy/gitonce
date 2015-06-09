@@ -1,2 +1,2 @@
-# gittime
-Playing with git - my first time
+# gitonce
+Playing with git
