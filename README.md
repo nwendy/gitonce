@@ -1,2 +1,2 @@
-# gitonce
+# gitplay
 Playing with git
