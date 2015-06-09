@@ -1,0 +1,25 @@
+1. Data Types in Javascript
+   ======================= 
+  string
+  numbers
+  booleans
+
+
+
+2. What data type?
+  
+3. 7.8 --------------- number
+4. "888" -------------  string
+5. 67 <- 11 ---------- boolean
+6. NaN ------------------ boolean
+7. 56000 * 54 --------- boolean
+
+
+
+8. Right or wrong variable names?
+   year ----------------- correct
+   *64 ------------------ wrong
+   %earn ------------------- wrong
+   value ------------------- correct
+   salary ----------------- correct
+   do ---------------------- correct
